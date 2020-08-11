@@ -24,9 +24,15 @@
 <img align="left" alt="UML" width="36px" src="https://static.javatpoint.com/tutorial/uml/images/uml-tutorial.png" />
 <img align="left" alt="Assembly" width="36px" src="https://user-images.githubusercontent.com/45834270/89921344-e0073900-dbfd-11ea-8c54-916eb2457094.png" />
 <img align="left" alt="Java" width="46px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="SQL" width="36px" src="https://cdn4.vectorstock.com/i/1000x1000/77/53/sql-database-icon-logo-design-ui-or-ux-app-vector-17507753.jpg" />
+<img align="left" alt="C" width="46px" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" />
+<img align="left" alt="C++" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="C#" width="36px" src="https://www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg" />
+<img align="left" alt=".NET " width="36px" src="https://user-images.githubusercontent.com/45834270/89958047-3e9dd880-dc39-11ea-8932-157873f90f01.png" />
+<img align="left" alt="Python " width="56px" src="https://princetonlibrary.org/wp-content/uploads/2017/12/python.png" />
+<img align="left" alt="Flutter " width="40px" src="https://pbs.twimg.com/media/D-YKepVXUAA7G5R.png" />
+
+
 
 
 <br/><br/>
@@ -36,6 +42,11 @@
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="VueJS" width="66px" src="https://miro.medium.com/max/1200/1*OrjCKmou1jT4It5so5gvOA.jpeg" />
+<img align="left" alt="PHP" width="66px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
+<img align="left" alt="Laravel" width="76px" src="https://allvectorlogo.com/img/2019/07/laravel-logo-vector.png" />
+<img align="left" alt="UI/UX" width="36px" src="https://indosystem.com/wp-content/uploads/2016/03/uiux.png" />
+
 
 
 
