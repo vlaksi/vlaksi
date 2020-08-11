@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true" />
 
 [instagram]: https://www.instagram.com/daks_98/
 [linkedin]: https://www.linkedin.com/in/vlaksi/
