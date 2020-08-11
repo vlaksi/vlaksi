@@ -33,17 +33,23 @@
 
 ## Web Development
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Jersey" width="56px" src="https://res.cloudinary.com/duo41k2sh/image/upload/f_auto,q_auto/v1454254663/Jersey-logo_zjyf4u" />
-<img align="left" alt="JAX-RS" width="56px" src="https://stacktips.com/wp-content/uploads/2015/08/Building-RESTful-Web-Services-Using-JAX-RS.png" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
 
 <br/><br/>
 
 ## Methodologies
+
+<img align="left" alt="REST" width="86px"  src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/135056738/original/f4a1f882db100ea22db39e053f0f3a942654378e/create-you-a-rest-api.png" />
+<img align="left" alt="Agile" width="96px" src="https://thinkthyme.com/wp-content/uploads/2017/11/What-Is-Agile-Project-Management.png" />
+<img align="left" alt="SOLID" width="86px" src="https://miro.medium.com/max/1191/1*OzwARbvHUg1RlZ7LYyLCrg.png" />
+<img align="left" alt="Software design patterns" width="76px" src="https://user-images.githubusercontent.com/45834270/89923083-4e4cfb00-dc00-11ea-8157-98d29c259b83.jpg" />
+<img align="left" alt="SDLC" width="56px" src="https://user-images.githubusercontent.com/45834270/89923203-894f2e80-dc00-11ea-9c65-129f4d2f8fad.jpg" />
+
+
 
 
 <br/><br/>
