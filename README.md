@@ -11,19 +11,23 @@
 <br/>
 
 
-### Connect with me: 
+## Connect with me
 
-[<img align="left" alt="vlaksi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="vlaksi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vlaksi | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="vlaksi | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/><br/>
 
 
 ## Software Development
 
+<img align="left" alt="UML" width="36px" src="https://static.javatpoint.com/tutorial/uml/images/uml-tutorial.png" />
+<img align="left" alt="Assembly" width="36px" src="https://user-images.githubusercontent.com/45834270/89921344-e0073900-dbfd-11ea-8c54-916eb2457094.png" />
+<img align="left" alt="Java" width="46px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
 <br/><br/>
 
@@ -32,7 +36,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Jersey" width="56px" src="https://res.cloudinary.com/duo41k2sh/image/upload/f_auto,q_auto/v1454254663/Jersey-logo_zjyf4u" />
+<img align="left" alt="JAX-RS" width="56px" src="https://stacktips.com/wp-content/uploads/2015/08/Building-RESTful-Web-Services-Using-JAX-RS.png" />
+
+
 
 <br/><br/>
 
