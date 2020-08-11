@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Entrepreneur, Enthusiast, and Teacher!
 - 🔭 I’m currently working on a Flutter
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other people
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, love and fight
