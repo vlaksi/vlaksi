@@ -79,7 +79,13 @@
 
 <br/><br/>
 
-<img align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true" />
+## Stats
+
+<img align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&layout=compact" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaksi&hide=html&layout=compact)](https://github.com/vlaksi/github-readme-stats)
+
+
 
 [instagram]: https://www.instagram.com/daks_98/
 [linkedin]: https://www.linkedin.com/in/vlaksi/
