@@ -32,10 +32,8 @@
 <img align="left" alt="Python " width="56px" src="https://princetonlibrary.org/wp-content/uploads/2017/12/python.png" />
 <img align="left" alt="Flutter " width="40px" src="https://pbs.twimg.com/media/D-YKepVXUAA7G5R.png" />
 
+<br/><br/><br/>
 
-
-
-<br/><br/>
 
 ## Web Development
 
@@ -50,7 +48,7 @@
 
 
 
-<br/><br/>
+<br/><br/><br/>
 
 ## Methodologies
 
@@ -63,7 +61,7 @@
 
 
 
-<br/><br/>
+<br/><br/><br/>
 
 ## Tools
 
@@ -77,7 +75,7 @@
 <img align="left" alt="Balsamiq" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 
 
-<br/><br/>
+<br/><br/><br/>
 
 ## Stats
 
