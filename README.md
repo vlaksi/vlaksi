@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Vladislav - aka vlaksi 👋
 
-## I'm a Developer, Entrepreneur, Enthusiast, and Teacher!
+## I'm a Developer, Entrepreneur & Enthusiast!
 - 🔭 I’m currently working on a Flutter
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other people
@@ -74,8 +74,6 @@
 <img align="left" alt="Eclipse" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
 <img align="left" alt="Balsamiq" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 
-
-<br/><br/><br/>
 
 ## Stats
 
