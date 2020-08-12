@@ -87,7 +87,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaksi&hide=html&layout=compact)](https://github.com/vlaksi/github-readme-stats)
 
+<br/><br/>
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 [instagram]: https://www.instagram.com/daks_98/
 [linkedin]: https://www.linkedin.com/in/vlaksi/
