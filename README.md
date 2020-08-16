@@ -75,6 +75,13 @@
 
 <br/>
 
+## Stats
+
+<img height=270px width=400px align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&include_all_commits=true&count_private=true&show_owner=true" />
+
+<br/><br/>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaksi&hide=html&layout=compact)](https://github.com/vlaksi/github-readme-stats)
 
 <br/><br/>
