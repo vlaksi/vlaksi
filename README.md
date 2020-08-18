@@ -1,5 +1,5 @@
 
-### Hi there, I'm Vladislav - aka vlaksi 👋
+### Hi there, I'm Vladislav - aka vaksi 👋
 
 ## I'm a Developer, Entrepreneur & Enthusiast!
 - 🔭 I’m currently working on a Flutter
