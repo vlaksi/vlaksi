@@ -2,7 +2,7 @@
 ### Hi there, I'm Vladislav - aka vaksi 👋
 
 ## I'm a Developer, Entrepreneur & Enthusiast!
-- 🔭 I’m currently working on a Flutter
+- 🔭 I’m currently at internship
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other people
 - 🥅 2020 Goals: Contribute more to Open Source projects
