@@ -72,6 +72,8 @@
 <img align="left" alt="Slack" width="36px" src="https://www.timewax.com/wp-content/uploads/2018/10/Slack-RGB.png" />
 <img align="left" alt="Eclipse" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
 <img align="left" alt="Balsamiq" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
+<img align="left" alt="AndroidStudio" width="36px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />
+<img align="left" alt="Postman" width="36px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />
 
 <br/>
 
