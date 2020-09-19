@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Entrepreneur & Enthusiast!
 - 🔭 I’m currently at internship
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & ASP.NET
 - 👯 I’m looking to collaborate with other people
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, travel & improve
