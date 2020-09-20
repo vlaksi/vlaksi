@@ -29,7 +29,10 @@
 <img align="left" alt="C#" width="36px" src="https://www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg" />
 <img align="left" alt=".NET " width="36px" src="https://user-images.githubusercontent.com/45834270/89958047-3e9dd880-dc39-11ea-8932-157873f90f01.png" />
 <img align="left" alt="Python " width="56px" src="https://princetonlibrary.org/wp-content/uploads/2017/12/python.png" />
-<img align="left" alt="Flutter " width="40px" src="https://pbs.twimg.com/media/D-YKepVXUAA7G5R.png" />
+<img align="left" alt="Dart" width="40px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
+<img align="left" alt="Flutter" width="40px" src="https://user-images.githubusercontent.com/32733023/48663958-49492f00-eaa0-11e8-88be-b5621fbac729.png" />
+
+
 
 <br/><br/><br/>
 
