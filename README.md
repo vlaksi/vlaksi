@@ -31,7 +31,7 @@
 <img align="left" alt="Python " width="56px" src="https://princetonlibrary.org/wp-content/uploads/2017/12/python.png" />
 <img align="left" alt="Dart" width="40px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
 <img align="left" alt="Flutter" width="40px" src="https://user-images.githubusercontent.com/32733023/48663958-49492f00-eaa0-11e8-88be-b5621fbac729.png" />
-
+<img align="left" alt="Solidity" height="42px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/768px-Solidity_logo.svg.png" />
 
 
 <br/><br/><br/>
@@ -59,7 +59,7 @@
 <img align="left" alt="SOLID" width="76px" src="https://miro.medium.com/max/1191/1*OzwARbvHUg1RlZ7LYyLCrg.png" />
 <img align="left" alt="Software design patterns" width="66px" src="https://user-images.githubusercontent.com/45834270/89923083-4e4cfb00-dc00-11ea-8157-98d29c259b83.jpg" />
 <img align="left" alt="SDLC" width="46px" src="https://user-images.githubusercontent.com/45834270/89923203-894f2e80-dc00-11ea-9c65-129f4d2f8fad.jpg" />
-
+<img align="left" alt="Blockchain" width="46px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6S92meMHBPFfHTCV2xemhHGyOW9-Z950zVQ&usqp=CAU" />
 
 
 
