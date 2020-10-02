@@ -59,7 +59,8 @@
 <img align="left" alt="SOLID" width="76px" src="https://miro.medium.com/max/1191/1*OzwARbvHUg1RlZ7LYyLCrg.png" />
 <img align="left" alt="Software design patterns" width="66px" src="https://user-images.githubusercontent.com/45834270/89923083-4e4cfb00-dc00-11ea-8157-98d29c259b83.jpg" />
 <img align="left" alt="SDLC" width="46px" src="https://user-images.githubusercontent.com/45834270/89923203-894f2e80-dc00-11ea-9c65-129f4d2f8fad.jpg" />
-<img align="left" alt="Blockchain" width="46px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6S92meMHBPFfHTCV2xemhHGyOW9-Z950zVQ&usqp=CAU" />
+<img align="left" alt="Blockchain" width="56px" src="https://previews.123rf.com/images/konstantinks/konstantinks1804/konstantinks180400280/99330000-blockchain-technology-icon-on-white-background-vector-illustration-.jpg" />
+<img align="left" alt="Machine learning" width="50px" src="https://www.pngkey.com/png/detail/314-3142775_beltech-2018-icons-webside-schedule-machine-learning-machine.png" />
 
 
 
