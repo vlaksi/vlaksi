@@ -31,11 +31,10 @@
 <img align="left" alt="Python " width="56px" src="https://princetonlibrary.org/wp-content/uploads/2017/12/python.png" />
 <img align="left" alt="Dart" width="40px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
 <img align="left" alt="Flutter" width="40px" src="https://user-images.githubusercontent.com/32733023/48663958-49492f00-eaa0-11e8-88be-b5621fbac729.png" />
-<img align="left" alt="Solidity" height="42px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/768px-Solidity_logo.svg.png" />
+<img align="left" alt="Solidity" height="42px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/768px-Solidity_logo.svg.png" />  
 
 
-<br/><br/><br/>
-
+<br />
 
 ## Web Development
 
@@ -45,12 +44,11 @@
 <img align="left" alt="VueJS" width="66px" src="https://miro.medium.com/max/1200/1*OrjCKmou1jT4It5so5gvOA.jpeg" />
 <img align="left" alt="PHP" width="56px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
 <img align="left" alt="Laravel" width="76px" src="https://allvectorlogo.com/img/2019/07/laravel-logo-vector.png" />
-<img align="left" alt="UI/UX" width="36px" src="https://indosystem.com/wp-content/uploads/2016/03/uiux.png" />
+<img align="left" alt="UI/UX" width="36px" src="https://indosystem.com/wp-content/uploads/2016/03/uiux.png" />  
 
 
 
-
-<br/><br/><br/>
+<br />
 
 ## Methodologies
 
@@ -60,11 +58,10 @@
 <img align="left" alt="Software design patterns" width="66px" src="https://user-images.githubusercontent.com/45834270/89923083-4e4cfb00-dc00-11ea-8157-98d29c259b83.jpg" />
 <img align="left" alt="SDLC" width="46px" src="https://user-images.githubusercontent.com/45834270/89923203-894f2e80-dc00-11ea-9c65-129f4d2f8fad.jpg" />
 <img align="left" alt="Blockchain" width="56px" src="https://previews.123rf.com/images/konstantinks/konstantinks1804/konstantinks180400280/99330000-blockchain-technology-icon-on-white-background-vector-illustration-.jpg" />
-<img align="left" alt="Machine learning" width="50px" src="https://www.pngkey.com/png/detail/314-3142775_beltech-2018-icons-webside-schedule-machine-learning-machine.png" />
+<img align="left" alt="Machine learning" width="50px" src="https://www.pngkey.com/png/detail/314-3142775_beltech-2018-icons-webside-schedule-machine-learning-machine.png" />  
 
 
-
-<br/><br/><br/>
+<br />
 
 ## Tools
 
@@ -78,15 +75,15 @@
 <img align="left" alt="Balsamiq" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 <img align="left" alt="AndroidStudio" width="36px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />
 <img align="left" alt="Postman" width="36px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />
-<img align="left" alt="Xcode" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" />
+<img align="left" alt="Xcode" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" />  
 
-<br/>
+
+<br />  
 
 ## Stats
 
-<img height=270px width=400px align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&include_all_commits=true&count_private=true&show_owner=true" />
+<img height=270px width=400px align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&include_all_commits=true&count_private=true&show_owner=true" />  
 
-<br/><br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaksi&hide=html&layout=compact)](https://github.com/vlaksi/github-readme-stats)
