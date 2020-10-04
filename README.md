@@ -5,7 +5,7 @@
 - 🔭 I’m currently at internship
 - 🌱 I’m currently learning blockchain & dap
 - 👯 I’m looking to collaborate with organization 'FTN-E2-materials' 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, travel & improve
 
 
