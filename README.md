@@ -2,7 +2,7 @@
 ### Hi there, I'm Vladislav - aka vaksi 👋
 
 ## I'm a Developer, Entrepreneur & Enthusiast!
-- 🔭 I’m currently at internship
+- 🔭 I’m currently researching Clean CaDET
 - 🌱 I’m currently learning blockchain 
 - 👯 I’m looking to collaborate with organization 'FTN-E2-materials' 
 - 🥅 2021 Goals: Contribute more to Open Source projects
