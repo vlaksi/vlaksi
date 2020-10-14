@@ -8,14 +8,25 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, travel & improve
 
+
+<details>
+ <summary> Connect with me </summary> 
+  
 ## Connect with me
 
 [<img align="left" alt="vlaksi | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="vlaksi | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ 
+ <br/><br/>
+ 
+</details>
 
-<br/><br/>
 
 
+
+<details>
+ <summary> Software Development </summary> 
+  
 ## Software Development
 
 <img align="left" alt="UML" width="36px" src="https://static.javatpoint.com/tutorial/uml/images/uml-tutorial.png" />
@@ -30,10 +41,17 @@
 <img align="left" alt="Dart" width="40px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
 <img align="left" alt="Flutter" width="40px" src="https://user-images.githubusercontent.com/32733023/48663958-49492f00-eaa0-11e8-88be-b5621fbac729.png" />
 <img align="left" alt="Solidity" height="42px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/768px-Solidity_logo.svg.png" />  
+ 
+ 
+ <br />  <br /> 
+ 
+</details>
 
 
-<br />  <br />  <br />  <br />  
 
+<details>
+ <summary> Web Development </summary> 
+  
 ## Web Development
 
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -43,11 +61,16 @@
 <img align="left" alt="PHP" width="56px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
 <img align="left" alt="Laravel" width="76px" src="https://allvectorlogo.com/img/2019/07/laravel-logo-vector.png" />
 <img align="left" alt="UI/UX" width="36px" src="https://indosystem.com/wp-content/uploads/2016/03/uiux.png" />  
+ 
+</details>
+
+<br /><br />
 
 
 
-<br /><br /><br />  
-
+<details>
+ <summary> Methodologies </summary> 
+  
 ## Methodologies
 
 <img align="left" alt="REST" width="76px"  src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/135056738/original/f4a1f882db100ea22db39e053f0f3a942654378e/create-you-a-rest-api.png" />
@@ -58,7 +81,11 @@
 <img align="left" alt="Blockchain" width="56px" src="https://previews.123rf.com/images/konstantinks/konstantinks1804/konstantinks180400280/99330000-blockchain-technology-icon-on-white-background-vector-illustration-.jpg" />
 <img align="left" alt="Machine learning" width="50px" src="https://www.pngkey.com/png/detail/314-3142775_beltech-2018-icons-webside-schedule-machine-learning-machine.png" />  
 
-<br />  <br />  <br />  
+<br />  <br />
+ 
+</details>
+
+
 
 
 <img height=270px width=400px align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&include_all_commits=true&count_private=true&show_owner=true" />  
