@@ -1,6 +1,12 @@
 
 ### Hi there, I'm Vladislav - aka vaksi 👋
 
+## I'm a Developer, Entrepreneur & Enthusiast!
+- 🔭 I’m currently researching Clean CaDET
+- 🌱 I’m currently learning blockchain 
+- 👯 I’m looking to collaborate with organization 'FTN-E2-materials' 
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read, travel & improve
 
 ## Connect with me
 
@@ -54,7 +60,6 @@
 
 <br />  <br />  <br />  
 
-## Stats
 
 <img height=270px width=400px align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&include_all_commits=true&count_private=true&show_owner=true" />  
 
