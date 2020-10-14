@@ -1,14 +1,6 @@
 
 ### Hi there, I'm Vladislav - aka vaksi 👋
 
-## I'm a Developer, Entrepreneur & Enthusiast!
-- 🔭 I’m currently researching Clean CaDET
-- 🌱 I’m currently learning blockchain 
-- 👯 I’m looking to collaborate with organization 'FTN-E2-materials' 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read, travel & improve
-
-
 
 ## Connect with me
 
@@ -59,24 +51,6 @@
 <img align="left" alt="SDLC" width="46px" src="https://user-images.githubusercontent.com/45834270/89923203-894f2e80-dc00-11ea-9c65-129f4d2f8fad.jpg" />
 <img align="left" alt="Blockchain" width="56px" src="https://previews.123rf.com/images/konstantinks/konstantinks1804/konstantinks180400280/99330000-blockchain-technology-icon-on-white-background-vector-illustration-.jpg" />
 <img align="left" alt="Machine learning" width="50px" src="https://www.pngkey.com/png/detail/314-3142775_beltech-2018-icons-webside-schedule-machine-learning-machine.png" />  
-
-
-<br /><br /><br />  
-
-## Tools
-
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Power Designer" width="36px" src="https://powerdesigner.co.za/wp-content/uploads/2014/02/sybase_powerdesigner-logo.png" />
-<img align="left" alt="Balsamiq" width="36px" src="https://www.qbssoftware.com/image/cache/catalog/qbs/balmockups-550x550.png" />
-<img align="left" alt="Visual Studio" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" />
-<img align="left" alt="GitHub" width="36px" src="https://pngimg.com/uploads/github/github_PNG20.png" />
-<img align="left" alt="Slack" width="36px" src="https://www.timewax.com/wp-content/uploads/2018/10/Slack-RGB.png" />
-<img align="left" alt="Eclipse" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
-<img align="left" alt="Balsamiq" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
-<img align="left" alt="AndroidStudio" width="36px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />
-<img align="left" alt="Postman" width="36px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />
-<img align="left" alt="Xcode" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" />  
-
 
 <br />  <br />  <br />  
 
