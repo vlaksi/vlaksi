@@ -1,12 +1,18 @@
 
 ### Hi there, I'm Vladislav - aka vaksi 👋
 
+
+<details>
+ <summary> About it </summary> 
+  
 ## I'm a Developer, Entrepreneur & Enthusiast!
 - 🔭 I’m currently researching Clean CaDET
 - 🌱 I’m currently learning blockchain 
 - 👯 I’m looking to collaborate with organization 'FTN-E2-materials' 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, travel & improve
+ 
+</details>
 
 
 <details>
@@ -20,8 +26,6 @@
  <br/><br/>
  
 </details>
-
-
 
 
 <details>
@@ -62,10 +66,9 @@
 <img align="left" alt="Laravel" width="76px" src="https://allvectorlogo.com/img/2019/07/laravel-logo-vector.png" />
 <img align="left" alt="UI/UX" width="36px" src="https://indosystem.com/wp-content/uploads/2016/03/uiux.png" />  
  
+ <br /><br />
+ 
 </details>
-
-<br /><br />
-
 
 
 <details>
