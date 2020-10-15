@@ -3,7 +3,7 @@
 
 
 <details>
- <summary> About it </summary> 
+ <summary> About me </summary> 
   
 ## I'm a Developer, Entrepreneur & Enthusiast!
 - 🔭 I’m currently researching Clean CaDET
