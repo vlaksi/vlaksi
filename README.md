@@ -94,6 +94,10 @@
 
 <br/><br/>
 
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=vlaksi.vlaksi" alt="Visitors">                     
+</p>
+
 
 [instagram]: https://www.instagram.com/daks_98/
 [linkedin]: https://www.linkedin.com/in/vlaksi/
