@@ -90,16 +90,10 @@
 
 
 
-
-<img height=270px width=400px align="left" alt="vlaksi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vlaksi&show_icons=true&include_all_commits=true&count_private=true&show_owner=true" />  
-
-<br /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaksi&hide=html&layout=compact)](https://github.com/vlaksi/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vlaksi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/><br/>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 [instagram]: https://www.instagram.com/daks_98/
 [linkedin]: https://www.linkedin.com/in/vlaksi/
