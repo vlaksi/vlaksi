@@ -6,10 +6,9 @@
  <summary> About me </summary> 
   
 ## I'm a Developer, Entrepreneur & Enthusiast!
-- 🔭 I’m currently researching Clean CaDET
 - 🌱 I’m currently learning blockchain 
-- 👯 I’m looking to collaborate with organization 'FTN-E2-materials' 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with open source projects such as react and etc.
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, travel & improve
  
 </details>
@@ -27,6 +26,29 @@
  
 </details>
 
+
+<details>
+ <summary> Web Development </summary> 
+  
+## Web Development
+
+
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="NodeJS" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" /> 
+ <img align="left" alt="NestJS" width="46px" src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" /> 
+<img align="left" alt="ReactJS" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<img align="left" alt="NextJS" width="66px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/4e9d0/nextjs-logo.png" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="VueJS" width="66px" src="https://miro.medium.com/max/1200/1*OrjCKmou1jT4It5so5gvOA.jpeg" />
+<img align="left" alt="PHP" width="56px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
+<img align="left" alt="Laravel" width="76px" src="https://allvectorlogo.com/img/2019/07/laravel-logo-vector.png" />
+
+ 
+ 
+ <br /><br />
+ 
+</details>
 
 <details>
  <summary> Software Development </summary> 
@@ -48,25 +70,6 @@
  
  
  <br />  <br /> 
- 
-</details>
-
-
-
-<details>
- <summary> Web Development </summary> 
-  
-## Web Development
-
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="VueJS" width="66px" src="https://miro.medium.com/max/1200/1*OrjCKmou1jT4It5so5gvOA.jpeg" />
-<img align="left" alt="PHP" width="56px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
-<img align="left" alt="Laravel" width="76px" src="https://allvectorlogo.com/img/2019/07/laravel-logo-vector.png" />
-<img align="left" alt="UI/UX" width="36px" src="https://indosystem.com/wp-content/uploads/2016/03/uiux.png" />  
- 
- <br /><br />
  
 </details>
 
@@ -99,7 +102,7 @@
 </p>
 
 
-[instagram]: https://www.instagram.com/daks_98/
+[instagram]: https://www.instagram.com/maksimovic.vl/
 [linkedin]: https://www.linkedin.com/in/vlaksi/
 
 
