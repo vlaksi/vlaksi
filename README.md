@@ -34,7 +34,11 @@
 
 
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NodeJS" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" /> 
+<img align="left" alt="TypeScript" width="36px" src="https://refactoring.guru/images/patterns/icons/typescript.svg?id=2239d0f16cb703540c205dd8cb0c0cb7" />
+
+ 
+ 
+ <img align="left" alt="NodeJS" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" /> 
  <img align="left" alt="NestJS" width="46px" src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" /> 
 <img align="left" alt="ReactJS" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" alt="NextJS" width="66px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/4e9d0/nextjs-logo.png" />
