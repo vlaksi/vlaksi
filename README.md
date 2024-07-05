@@ -6,9 +6,9 @@
  <summary> About me </summary> 
   
 ## I'm a Developer, Entrepreneur & Enthusiast!
-- 🌱 I’m currently learning blockchain 
+- 🌱 I’m currently open for new interesting projects
 - 👯 I’m looking to collaborate with open source projects such as react and etc.
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 General Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, travel & improve
  
 </details>
